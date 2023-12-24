@@ -1,1 +1,6 @@
 [theme]
+font = "Manrope"
+primaryColor = "#7438C3"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1EFED"
+textColor = "#373430"
